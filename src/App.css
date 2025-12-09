@@ -33,7 +33,7 @@ body {
 .hero-image {
   position: relative;
   height: 260px;
-  background-image: url('./header-c2.png');
+  background-image: url('/header-c2.png');
   background-size: cover;
   background-position: center;
 }
@@ -209,7 +209,7 @@ body {
 
 .location-image {
   height: 260px;
-  background-image: url('./Footer.svg'); /* coloque sua foto aqui */
+  background-image: url('/Footer.svg'); /* coloque sua foto aqui */
   background-size: cover;
   background-position: center;
   position: relative;
