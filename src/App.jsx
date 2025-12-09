@@ -27,13 +27,13 @@ const techIcons = [
 const links = [
   {
     label: 'Meu Site & Portfólio',
-    href: 'https://seu-portifolio.com',
+    href: 'https://portifolio-miguel-navy.vercel.app/',
     icon: <FiMonitor /> ,
 
   },
   {
     label: 'LinkedIn | @miguelgomescy',
-    href: 'https://portifolio-miguel-navy.vercel.app/',
+    href: 'https://linkedin.com/in/miguelgomescy',
     icon: <FaLinkedin /> ,
   },
   {
